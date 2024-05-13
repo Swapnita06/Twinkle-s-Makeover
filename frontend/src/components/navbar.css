@@ -9,6 +9,7 @@
 
 html {
   font-size: 62.5%;
+  
 }
 
 a {
@@ -31,7 +32,9 @@ li {
   grid-template-columns: 10rem 1fr 2fr 1fr 10rem;
   box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
     rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
-    background-color: #9B4444;
+    background-color: /*#8d3737f1*/ #5C2626;
+   
+   
 }
 
 .logo {
